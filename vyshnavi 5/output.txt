@@ -1,0 +1,24 @@
+```text
+To-Do List Testbench
+--------------------
+Test 1: Add 3 tasks
+Expected: 3 tasks
+Actual: 3 tasks
+PASS
+
+Test 2: Remove task 2
+Expected: Task removed
+Actual: Task removed
+PASS
+
+Test 3: Remove invalid task
+Expected: Task not removed
+Actual: Task not removed
+PASS
+
+Test 4: Display remaining tasks
+To-Do List:
+1. Complete Java project
+2. Submit assignment
+PASS
+```
